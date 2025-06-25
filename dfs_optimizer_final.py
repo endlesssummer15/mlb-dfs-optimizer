@@ -83,11 +83,11 @@ st.download_button("Download CSV", csv, "dk_optimizer_lineup.csv", "text/csv")
 
 
 
-Tools
 
 
 
-ChatGPT can make mistake
+
+
 
 
 
